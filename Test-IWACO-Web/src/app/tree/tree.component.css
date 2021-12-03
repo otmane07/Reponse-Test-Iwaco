@@ -1,0 +1,30 @@
+.example-tree-invisible {
+    display: none;
+}
+
+.example-tree ul,
+.example-tree li {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+}
+#card{
+    background-color: #e1e7ec;
+    color:#4298cd;
+    border: red ;
+}
+.btn{
+    text-align: right;
+}
+.cont{
+    text-align: center;
+}
+
+.mat-icon-button{
+    color:#0077c0;
+    background-color: #e1e7ec;
+    
+}
+.mat-tree-node{
+    color: #88a3c2;
+}

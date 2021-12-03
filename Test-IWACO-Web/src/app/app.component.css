@@ -1,0 +1,22 @@
+.body{
+    background-image: url("../assets/Images/banner.jpg");
+    height: 800px;
+    width: 1200;
+   
+}
+.usine{
+    width: 400px;
+    height: 400px;
+    margin-left: 200px;
+
+    border-radius: 50px 0px 0px 0px;
+}
+.titre{
+    text-align: center;
+    height: 200px;
+    color:#0f468a;
+}
+.image{
+    height: 40px;
+    width: 40px;
+}
